@@ -32,12 +32,3 @@ This project focuses on building a data-driven Weather Prediction System using P
 ## 📂 **Dataset**
 
 This project uses the [Rain in Australia Dataset from Kaggle](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package), which contains daily weather observations, including Rainfall, Temperature, Humidity, Wind Speed, and more.
-
----
-
-## 🚀 **How to Run the Project**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-prediction-system.git
-   cd weather-prediction-system
